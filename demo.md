@@ -1,7 +1,7 @@
 # simple
-This is a simple example
+This is a simple example!
 
 second line!
 
-final line!! this is it.
+final line!! this is it!
 
